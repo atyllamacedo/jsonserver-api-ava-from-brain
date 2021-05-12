@@ -1,0 +1,52 @@
+{
+    "Usarios": [
+        {
+            "id": 0,
+            "idCurso": 1,
+            "name": "Nathan Soares Silva",
+            "genero": "masculino",
+            "password": "Acesso@123",
+            "perfil": "Aluno"
+        },
+        {
+            "id": 1,
+            "idCurso": 1,
+            "name": "Eudy Amaparo",
+            "genero": "masculino",
+            "password": "Acesso@123"
+        },
+        {
+            "id": 2,
+            "idCurso": 1,
+            "name": "Yuri",
+            "genero": "masculino",
+            "password": "Acesso@123",
+            "perfil": "Aluno"
+        },
+        {
+            "id": 3,
+            "idCurso": 1,
+            "name": "Yuri",
+            "genero": "masculino",
+            "password": "Acesso@123",
+            "perfil": "Aluno"
+        },
+        {
+            "id": 4,
+            "idCurso": 1,
+            "name": "Atylla Macedo ALves Cruz",
+            "genero": "masculino",
+            "password": "Acesso@123",
+            "perfil": "Aluno"
+        }
+        ,
+        {
+            "id": 5,
+            "idCurso": 5,
+            "name": "Professor Teste",
+            "genero": "masculino",
+            "password": "Acesso@123",
+            "perfil": "Professor"
+        }
+    ]
+}
